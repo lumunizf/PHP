@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="872a2a34-fd57-4b65-be08-bb5e102fd206" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sintaxes/ola-mundo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sintaxes/operacoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sintaxes/strings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sintaxes/tipos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sintaxes/variavel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/IMC.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/numeros_impares.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/tabuada.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/decisoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/repeticao_for.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola-mundo.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sintaxes/operacoes.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sintaxes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lumun\cursos\FrontEnd\PHP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lumun\cursos\FrontEnd\PHP\sintaxes" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580779629891</updated>
       <workItem from="1580779633575" duration="900000" />
-      <workItem from="1580819342342" duration="5900000" />
+      <workItem from="1580819342342" duration="16854000" />
     </task>
     <servers />
   </component>
@@ -58,10 +64,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580827786917" />
-    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1580822991791">
+    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1580856487253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580822991791" />
+    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580856487253" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580819346818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
