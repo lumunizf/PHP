@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872a2a34-fd57-4b65-be08-bb5e102fd206" name="Default Changelist" comment="" />
+    <list default="true" id="872a2a34-fd57-4b65-be08-bb5e102fd206" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sintaxes/ola-mundo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/operacoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/strings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/tipos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sintaxes/variavel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ola-mundo.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +21,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XK0lOlh1MDZLONGR4y2g6RwY1d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sintaxes/operacoes.php" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580779629891</updated>
       <workItem from="1580779633575" duration="900000" />
+      <workItem from="1580819342342" duration="5900000" />
     </task>
     <servers />
   </component>
@@ -40,13 +54,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1580779715730">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580827786917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580779715730" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580779640146">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580827786917" />
+    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1580822991791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580779640146" />
+    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580822991791" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1580819346818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580819346818" />
   </component>
 </project>
